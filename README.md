@@ -1,6 +1,6 @@
 # Recommendation-Engine
 
-Here is a simple blog application created using Django and Django Rest Framework. It also possess CRUD (Create, Read, Update, Delete) functionalities.
+Here is a recommendation system created using Django and Django Rest Framework. It also possess search and recommendation functioanlites on your data.
 
 
 ## Setup Instructions
